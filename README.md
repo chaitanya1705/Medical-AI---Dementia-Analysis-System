@@ -19,6 +19,7 @@ npm start
 Install all required Python packages:
 
 ```bash
+cd models
 pip install torch torchvision torchaudio transformers flask flask-cors pandas numpy pillow python-dotenv requests scikit-learn timm albumentations joblib google-generativeai openpyxl
 ```
 
